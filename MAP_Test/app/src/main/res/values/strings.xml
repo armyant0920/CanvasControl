@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">圖形功能測試</string>
+    <string name="random1">隨機圖層產生</string>
+    <string name="random2">隨機地圖產生</string>
+    <string name="circle">圓餅圖產生</string>
+    <string name="puzzle">拼圖</string>
+    <string name="info">注意:\n
+        1.如果格數太少,而顏色太多,可能會沒有出現 \n
+        2.如果出現空格,自動填補為1 \n
+        3.如果"MAX"小於"MIN",MAX等於MIN \n</string>
+</resources>

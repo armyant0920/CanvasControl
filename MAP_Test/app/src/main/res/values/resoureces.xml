@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Tree_type_a_Pic">
+        <item>@drawable/a_tree1</item>
+        <item>@drawable/a_tree2</item>
+    </array>
+    <array name="Tree_type_b_Pic">
+        <item>@drawable/b_tree1</item>
+        <item>@drawable/b_tree2</item>
+        <item>@drawable/b_tree3</item>
+        <item>@drawable/b_tree4</item>
+    </array>
+    <array name="Wall_Pic">
+        <item>@drawable/wall1</item>
+        <item>@drawable/wall2</item>
+        <item>@drawable/wall3</item>
+        <item>@drawable/wall4</item>
+
+    </array>
+
+
+
+
+</resources>
